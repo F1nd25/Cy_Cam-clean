@@ -1,0 +1,6 @@
+path: dataset  # путь к папке с images и labels
+train: images/train
+val: images/val
+
+names:
+  0: license_plate
